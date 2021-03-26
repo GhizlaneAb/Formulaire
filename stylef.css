@@ -1,0 +1,27 @@
+body{
+    background-image: url('imageform/back.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 100% 100%;
+
+}
+form{
+    border:0.5px solid black;
+    border-radius: 15px;
+    background-color:white;
+    margin: 0;
+    position: absolute;
+    top: 65%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin-bottom: 40%;
+    box-shadow: 5px 5px 5px black;
+}
+h2{
+    text-align: center;
+    padding-top: 30px;
+    font-size: larger;
+    
+}
